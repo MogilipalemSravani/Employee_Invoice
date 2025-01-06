@@ -12,7 +12,7 @@ Delete Employee: Deletes employee records from the system.
 Salary Calculations: Automatically calculates and displays TA, DA, HRA, Gross Salary, and Net Salary based on employee salary.
 
 
-#Technologies
+# Technologies used:
 Frontend: JSP, HTML, CSS.
 Backend: Java, Spring Boot .
 Database: PostgreSQL .
