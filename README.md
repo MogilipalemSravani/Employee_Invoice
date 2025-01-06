@@ -1,10 +1,10 @@
-Project Title:
+# Project Title:
 CRUD Operations for Employee Invoice
 
-Project Description:
+# Project Description:
 This project is a CRUD (Create, Read, Update, Delete) application designed for managing employee invoices. It allows users to add, view, update, and delete employee details, including their salary and other allowances. The system calculates and displays important financial details like TA (Travel Allowance), DA (Dearness Allowance), HRA (House Rent Allowance), Gross Salary, and Net Salary.
 
-Features:
+# Features:
 Add Employee: Allows users to input employee details such as Employee ID (EID), Employee Name (ENAME), and Salary.
 Display Employee Details: Displays detailed information about employees, including calculated values for TA, DA, HRA, Gross Salary, and Net Salary.
 Update Employee Details: Allows users to update employee information, including salary details.
@@ -12,14 +12,14 @@ Delete Employee: Deletes employee records from the system.
 Salary Calculations: Automatically calculates and displays TA, DA, HRA, Gross Salary, and Net Salary based on employee salary.
 
 
-Technologies
+#Technologies
 Frontend: JSP, HTML, CSS.
 Backend: Java, Spring Boot .
 Database: PostgreSQL .
 Build Tool: Maven/Gradle.
 Server: Tomcat.
 
-How to Use JSP Files
+#How to Use JSP Files
 Mention the role of JSP files in your project:
 addEmployee.jsp: Form for adding employee details.
 editEmployee.jsp: Form for editing existing employee details.
