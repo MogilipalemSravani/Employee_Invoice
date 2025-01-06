@@ -19,9 +19,3 @@ Database: PostgreSQL .
 Build Tool: Maven/Gradle.
 Server: Tomcat.
 
-# How to Use JSP Files
-
-addEmployee.jsp: Form for adding employee details.
-editEmployee.jsp: Form for editing existing employee details.
-viewEmployees.jsp: Displays all employee details in a tabular format.
-success.jsp: Displays a confirmation message after a successful operation.
