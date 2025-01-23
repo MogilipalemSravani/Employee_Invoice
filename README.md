@@ -16,7 +16,7 @@ Salary Calculations: Automatically calculates and displays TA, DA, HRA, Gross Sa
 Frontend: JSP, HTML, CSS.
 Backend: Java, Spring Boot .
 Database: PostgreSQL .
-Build Tool: Maven/Gradle.
+Build Tool: Maven.
 Server: Tomcat.
 
 # project Demo
